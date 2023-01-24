@@ -153,5 +153,8 @@ The Website is published.We created a webpage displaying the cover page of the b
 ## OUTPUT:
 ![output](/coverpage.png)
 
+## HTML VALIDATOR:
+![output](/htmlv.png)
+
 ## Result:
 Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS".
